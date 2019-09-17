@@ -11,19 +11,19 @@ https://colab.research.google.com/drive/1vJwIsAKOBp6iOXmThl1ulnprLGJv_IQW
 ## Hyper-parameter Tuning Prac 1
 https://colab.research.google.com/drive/1H-oCDpUKV1CljYGiut8tInHyOEhlThQA
 
-t-SNE Prac 1
+## t-SNE Prac 1
 https://colab.research.google.com/drive/1IGfziA1ZKFNt1lQqQPmJe6Fuw80TbzrY
 
-t-SNE Prac 2
+## t-SNE Prac 2
 https://colab.research.google.com/drive/1SUtmf4Qf62uQh2WCU1F1eVVECUINv69B
 
-Isolation Forest Prac 1
+## Isolation Forest Prac 1
 https://colab.research.google.com/drive/1rqukD0toChExALJ6KhkdMgEFD85U9ZDa
 
-K-means Prac 1
+## K-means Prac 1
 https://colab.research.google.com/drive/1oa3xfwDqygwgtZ7PoNQ02-_vC_R46CGa
 
-K-means Prac 2
+## K-means Prac 2
 https://colab.research.google.com/drive/1Khps_JaBT80Twti7OPimdHf7Zc3K52i0
 
 <hr>

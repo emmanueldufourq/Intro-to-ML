@@ -12,6 +12,7 @@ https://colab.research.google.com/drive/1-8JTpCxEW9IbFzbV7czce2y6QuGqhzmN
 https://colab.research.google.com/drive/1EJPRv1eYAHD-knA0pxGz4sOwP-DPpjGx
 
 ## Multiple Feature Regression Prac 2
+https://colab.research.google.com/drive/1s7r3NO6zy6BjsXO3M2j-jnyOyVzA5f9M
 
 ## Feature-based Classification Prac 1
 

@@ -18,6 +18,7 @@ https://colab.research.google.com/drive/1s7r3NO6zy6BjsXO3M2j-jnyOyVzA5f9M
 https://colab.research.google.com/drive/1X_I1-7vn8l8cIKi6wBzW5IP1d1unmSc2
 
 ## Feature-based Classification Prac 2
+https://colab.research.google.com/drive/18DV5l8XzcTsvA3u3tXaxXQlevWqytQQI
 
 ## Image Classification Prac 1
 

@@ -9,3 +9,15 @@
 **Stellenbosch University**
 
 **2019**
+
+The topics covered are:
+
+* Linear regression using Scikit-Learn
+* Classification using Scikit-learn and decision trees/random forests
+* Random and grid search hyper-parameter tuning
+* Anomaly detection using Isolation forests
+* t-SNE visualisation
+* K-means algorithm
+* Keras and linear regression and classification
+* Text/sentiment classification
+* Image classification

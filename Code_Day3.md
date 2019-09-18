@@ -24,6 +24,7 @@ https://colab.research.google.com/drive/18DV5l8XzcTsvA3u3tXaxXQlevWqytQQI
 https://colab.research.google.com/drive/18raBoEuz1UuQIlldje9YzYVTCY0TsS4W
 
 ## Image Classification Prac 2
+https://colab.research.google.com/drive/14muW3Gj6FGdMgfRu0uITk19z9JuLRRFe
 
 ## Text (sentiment) Classification Prac 1
 

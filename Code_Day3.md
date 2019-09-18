@@ -8,3 +8,20 @@ Each of these open up in Google Colab. To edit the code and make modifications y
 ## Linear Regression as a Neural Network
 https://colab.research.google.com/drive/1-8JTpCxEW9IbFzbV7czce2y6QuGqhzmN
 
+## Multiple Feature Regression Prac 1
+
+## Multiple Feature Regression Prac 2
+
+## Feature-based Classification Prac 1
+
+## Feature-based Classification Prac 2
+
+## Image Classification Prac 1
+
+## Image Classification Prac 2
+
+## Text (sentiment) Classification Prac 1
+
+## Text Classification Prac 2
+
+## Time Series Prac 1

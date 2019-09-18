@@ -1,0 +1,13 @@
+# Links to the code:
+
+Each of these open up in Google Colab. To edit the code and make modifications you can do the following: 
+1. Open a link below
+2. Click on *File*
+3. Select *Save a copy in drive...* - note that this might require you to sign in with a Google account.
+
+## Text (sentiment) Classification Prac 1
+https://colab.research.google.com/drive/1dCZMIXo0DV0aGskQVeQsRc227vTirPP7
+
+## Text Classification Prac 2
+
+## Time Series Prac

@@ -9,6 +9,7 @@ Each of these open up in Google Colab. To edit the code and make modifications y
 https://colab.research.google.com/drive/1-8JTpCxEW9IbFzbV7czce2y6QuGqhzmN
 
 ## Multiple Feature Regression Prac 1
+https://colab.research.google.com/drive/1EJPRv1eYAHD-knA0pxGz4sOwP-DPpjGx
 
 ## Multiple Feature Regression Prac 2
 

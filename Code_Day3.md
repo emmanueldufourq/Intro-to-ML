@@ -21,6 +21,7 @@ https://colab.research.google.com/drive/1X_I1-7vn8l8cIKi6wBzW5IP1d1unmSc2
 https://colab.research.google.com/drive/18DV5l8XzcTsvA3u3tXaxXQlevWqytQQI
 
 ## Image Classification Prac 1
+https://colab.research.google.com/drive/18raBoEuz1UuQIlldje9YzYVTCY0TsS4W
 
 ## Image Classification Prac 2
 

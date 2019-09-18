@@ -26,9 +26,3 @@ https://colab.research.google.com/drive/18raBoEuz1UuQIlldje9YzYVTCY0TsS4W
 ## Image Classification Prac 2
 https://colab.research.google.com/drive/14muW3Gj6FGdMgfRu0uITk19z9JuLRRFe
 
-## Text (sentiment) Classification Prac 1
-https://colab.research.google.com/drive/1dCZMIXo0DV0aGskQVeQsRc227vTirPP7
-
-## Text Classification Prac 2
-
-## Time Series Prac

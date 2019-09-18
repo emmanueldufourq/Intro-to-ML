@@ -9,5 +9,6 @@ Each of these open up in Google Colab. To edit the code and make modifications y
 https://colab.research.google.com/drive/1dCZMIXo0DV0aGskQVeQsRc227vTirPP7
 
 ## Text Classification Prac 2
+https://colab.research.google.com/drive/180NxSirBamYriPPMfGe7xs4UvtxbUaMP
 
 ## Time Series Prac

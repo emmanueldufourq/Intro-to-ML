@@ -13,3 +13,8 @@ https://colab.research.google.com/drive/180NxSirBamYriPPMfGe7xs4UvtxbUaMP
 
 ## Time Series Prac
 https://drive.google.com/file/d/1xa0XtJS1sCGL0MgrujlFqTZGHIU6bxoE/view?usp=sharing
+
+<hr>
+
+## Assignment 6 - LSTM
+https://colab.research.google.com/drive/1_mOihLKnGqM-v4TdIE77Q01H0jG-svud

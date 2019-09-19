@@ -21,3 +21,4 @@ The topics covered are:
 * Keras and linear regression and classification
 * Text/sentiment classification
 * Image classification
+* LSTM and time-series prediction

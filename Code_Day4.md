@@ -1,4 +1,4 @@
-# Course Evaluation
+# Teaching Evaluation
 In order to improve my teaching skills, I have created this evaluation form which is annonymous, please take a few minutes to fill it out:
 https://docs.google.com/forms/d/e/1FAIpQLSeWxDMK5s7L42eJbrV_YMrZizImr7wofjzPfZ4rQHrmqmITig/viewform?usp=pp_url
 

@@ -16,7 +16,7 @@ https://colab.research.google.com/drive/1dCZMIXo0DV0aGskQVeQsRc227vTirPP7
 https://colab.research.google.com/drive/180NxSirBamYriPPMfGe7xs4UvtxbUaMP
 
 ## Time Series Prac
-https://drive.google.com/file/d/1xa0XtJS1sCGL0MgrujlFqTZGHIU6bxoE/view?usp=sharing
+https://colab.research.google.com/drive/1xa0XtJS1sCGL0MgrujlFqTZGHIU6bxoE
 
 <hr>
 
